@@ -10,7 +10,10 @@ Jose Sandoval Islava (jsando66@asu.edu <br>
 
 <br>
 
-# kronos.ai
+# kronos.ai, a short introduction
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0sF3YiTPpj0?si=GQrS7qBmqLI2uZft" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
 
 ## 1. Problem Statement
 **kronos.ai** is designed for adults who want to manage work, personal, and social commitments more efficiently. Today, scheduling information is spread across emails, text messages, chat apps, and paper reminders. Because these details are scattered, users must manually enter events into their calendars, which is time-consuming and increases the risk of missed appointments or scheduling conflicts.
