@@ -1,4 +1,4 @@
-![My Image Description](Images/Logo.jpeg)
+![Krono logo](Images/Logo.jpeg)
 
 
 # Team Members: <br>
