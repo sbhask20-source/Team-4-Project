@@ -11,8 +11,7 @@ Jose Sandoval Islava (jsando66@asu.edu <br>
 <br>
 
 # kronos.ai, a short introduction
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0sF3YiTPpj0?si=GQrS7qBmqLI2uZft" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtu.be/0sF3YiTPpj0?si=ITBRuUCPRhYxV3Va
 <br>
 
 ## 1. Problem Statement
