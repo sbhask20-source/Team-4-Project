@@ -1,4 +1,4 @@
-![My Image Description](Images/logo.jpeg)
+![My Image Description](Images/Logo.jpeg)
 
 # Team-4-Project
 1. Problem Statement
