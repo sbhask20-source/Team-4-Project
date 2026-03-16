@@ -1,5 +1,4 @@
-![Team 4 Lgoo](images/WhatsApp Image 2026-03-15 at 20.18.35.jpeg)
-
+![My Image Description](Images/logo.jpeg)
 
 # Team-4-Project
 1. Problem Statement
