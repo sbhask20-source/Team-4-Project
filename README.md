@@ -1,6 +1,15 @@
 ![My Image Description](Images/Logo.jpeg)
 
-# Team-4-Project
+
+Team Members: 
+SDK (Obfuscated) (sbhask20@asu.edu), 
+Katie Frazier (cefrazie@asu.edu), 
+Mark Georgy (mngeorgy@asu.edu), 
+Moosa Qureshi (maqures4@asu.edu), 
+Jose Sandoval Islava (jsando66@asu.edu
+
+
+Kronos.AI
 1. Problem Statement
 The user is any adult trying to manage work, personal, and social commitments more efficiently. Today, scheduling information is spread across emails, text messages, chat apps, and paper reminders. Because these details are scattered, users must manually enter events into their calendars, which is time-consuming and increases the chance of missed appointments or scheduling conflicts.
 2. Why Now?
