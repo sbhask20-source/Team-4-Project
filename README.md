@@ -1,12 +1,13 @@
 ![My Image Description](Images/Logo.jpeg)
 
 
-# Team Members: 
-SDK (Obfuscated) (sbhask20@asu.edu), 
-Katie Frazier (cefrazie@asu.edu), 
-Mark Georgy (mngeorgy@asu.edu), 
-Moosa Qureshi (maqures4@asu.edu), 
-Jose Sandoval Islava (jsando66@asu.edu
+# Team Members: <br>
+SDK (Obfuscated) (sbhask20@asu.edu)  <br>
+Katie Frazier (cefrazie@asu.edu),  <br>
+Mark Georgy (mngeorgy@asu.edu),  <br>
+Moosa Qureshi (maqures4@asu.edu),  <br>
+Jose Sandoval Islava (jsando66@asu.edu <br>
+
 
 
 # kronos.ai
