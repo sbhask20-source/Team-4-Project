@@ -1,3 +1,6 @@
+![Team 4 Lgoo](images/WhatsApp Image 2026-03-15 at 20.18.35.jpeg)
+
+
 # Team-4-Project
 1. Problem Statement
 The user is any adult trying to manage work, personal, and social commitments more efficiently. Today, scheduling information is spread across emails, text messages, chat apps, and paper reminders. Because these details are scattered, users must manually enter events into their calendars, which is time-consuming and increases the chance of missed appointments or scheduling conflicts.
