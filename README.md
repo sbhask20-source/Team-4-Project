@@ -8,7 +8,7 @@ Mark Georgy (mngeorgy@asu.edu),  <br>
 Moosa Qureshi (maqures4@asu.edu),  <br>
 Jose Sandoval Islava (jsando66@asu.edu <br>
 
-
+<br>
 
 # kronos.ai
 
