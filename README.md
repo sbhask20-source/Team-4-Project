@@ -10,13 +10,16 @@ Jose Sandoval Islava (jsando66@asu.edu <br>
 
 <br>
 
+# Kronos.ai, live demo
+https://youtu.be/pX22AeyxRn8
+
+<br>
+
 # kronos.ai, a short introduction
 https://youtu.be/0sF3YiTPpj0?si=ITBRuUCPRhYxV3Va
 <br>
 
-<br>
-# Kronos.ai, live demo
-https://youtu.be/pX22AeyxRn8
+
 
 
 ## 1. Problem Statement
