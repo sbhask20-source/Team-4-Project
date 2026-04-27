@@ -10,6 +10,11 @@ Jose Sandoval Islava (jsando66@asu.edu <br>
 
 <br>
 
+# Kronos.ai, Final demo
+https://youtu.be/qgNNfpEUsDk
+
+<br>
+
 # Kronos.ai, live demo
 https://youtu.be/pX22AeyxRn8
 
